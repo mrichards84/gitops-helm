@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: podinfo-rc
   chart:
-    git: https://github.com/stefanprodan/gitops-helm.git
+    git: https://github.com/mrichards84/gitops-helm.git
     path: charts/podinfo
     ref: master
   values:
