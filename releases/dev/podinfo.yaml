@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: mattrichards84/podinfo:dev-pmhko15f
+    image: mattrichards84/podinfo:dev-leclyrtq
     replicaCount: 1
     hpa:
       enabled: false
